@@ -4,7 +4,7 @@ Button and Push component of the TenForce design toolbox.
 
 ## CSS
 
-This component is using a main CSS filee. The main contains the basic design, and the plugin contains some extra design in case of drag-n-drop functionality.
+This component is using a main CSS file. The design for both buttons and pushes are the same. One is a button and the other one is an anchor element.
 
 ## HTML structure
 
