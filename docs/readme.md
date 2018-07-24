@@ -4,7 +4,7 @@ Button and Push components of the TenForce design toolbox.
 
 ## CSS
 
-This component is using [one](https://github.com/tenforce/design-toolbox-button-push/blob/master/docs/sass/toolbox-button.scss) CSS file. The design for both buttons and pushes are the same. One is a button and the other one is an anchor element.
+This component is using [one](https://github.com/tenforce/design-toolbox-button-push/blob/master/docs/sass/style.scss) CSS file. The design for both buttons and pushes are the same. One is a button and the other one is an anchor element.
 
 ## HTML structure
 
@@ -18,8 +18,8 @@ The Design documentation was built in Jekyll using SASS and Liquid.
 ## Usage
 ### Links to CSS files
 - main CSS
-  - [built](https://tenforce.github.io/design-toolbox-button-push/sass/toolbox-button.css)
-  - [raw](https://github.com/tenforce/design-toolbox-button-push/blob/master/docs/sass/toolbox-button.scss)
+  - [built](https://tenforce.github.io/design-toolbox-button-push/sass/style.css)
+  - [raw](https://github.com/tenforce/design-toolbox-button-push/blob/master/docs/sass/style.scss)
 
 ### Jekyll
 Add [the content of this file](https://github.com/tenforce/design-toolbox-button-push/tree/master/docs/import/include-button-push.html) to the another Jekyll project to include files from this project.
